@@ -13,6 +13,7 @@ I wont guarantte that we will per perfect result for 3 pictures every time bette
 - Live webcam face capture
 - Attendance logging in CSV
 - Local Flask-based web interface
+- By default your system’s can_mark_attendance function only allows one mark per 24 hours. So if John’s face is recognized once today, further appearances of John’s face will return “Attendance already marked for --- today.”
 
 ## 🚀 How to Run
 
