@@ -6,6 +6,7 @@ It doesnt need much training since we are using siamese model.
 Using 5-10 pictures per person is enough but i used one 3 per head and got the output,
 I wont guarantte that we will per perfect result for 3 pictures every time better to use a minimum of 5 per head.
 
+★ I changed all of my actual pictures to famous figures in indian politics
 ## 💻 Features
 
 - Siamese model for face verification
